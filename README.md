@@ -12,3 +12,5 @@ Example:
         // ...do stuff
       }
     });
+
+No jQuery needed, though I used it in the example :)
